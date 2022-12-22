@@ -12,6 +12,6 @@ Step 2 - We read the dataframe using pandas and start the process of transformat
 
 Step 3 - Transformations such as Null Handling, Data Analytics that is answering some questions and bringing value out of the data.
 
-Step 4 - I have split the dataset into 2 - One for Movies and the other one for TV shows. Since it is an OTT platform's data, splitting the dataset here makes things simpler and much clearer.
+Step 4 - I have split the dataset into 2 - One for Movies and the other one for TV shows. Since it is an OTT platform's data, splitting the dataset here makes things simpler, more interesting and clear.
 
 Step 5 - Final part where we load the dataframes to the target source. My target source here is the Postgres DB. I load the 3 dataframes to my newly created db using SQLAlchemy.
